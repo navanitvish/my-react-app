@@ -157,7 +157,7 @@ const CancellationPolicy = () => {
   <p className="font-medium">Rate Us Pro</p>
   <p>123, MG Road, Indiranagar, Bengaluru, Karnataka, 560038, India</p>
   <p>contact@rateuspro.com</p>
-  <p>+91 98765 43210</p>
+  <p>+91 9822564171</p>
 </div>
               </section>
             </div>
