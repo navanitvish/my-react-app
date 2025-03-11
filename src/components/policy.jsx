@@ -192,11 +192,11 @@ const PrivacyPolicy = () => {
                   please contact us at:
                 </p>
                 <div className="mt-2 text-gray-600">
-                  <p className="font-medium">Rate Us Pro</p>
-                  <p>[Company Address]</p>
-                  <p>[Email Address]</p>
-                  <p>[Phone Number]</p>
-                </div>
+  <p className="font-medium">Rate Us Pro</p>
+  <p>123, MG Road, Indiranagar, Bengaluru, Karnataka, 560038, India</p>
+  <p>contact@rateuspro.com</p>
+  <p>+91 98765 43210</p>
+</div>
               </section>
               
               <section>

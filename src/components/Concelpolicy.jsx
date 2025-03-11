@@ -153,13 +153,12 @@ const CancellationPolicy = () => {
                   If you have any questions or need assistance regarding cancellations or refunds, please 
                   contact us at:
                 </p>
-                <div className="mt-2 text-gray-600 bg-gray-50 p-4 rounded-lg">
-                  <p className="font-medium">Rate Us Pro</p>
-                  <p>123 Business Avenue</p>
-                  <p>San Francisco, CA 94103</p>
-                  <p>support@rateuspro.com</p>
-                  <p>(555) 123-4567</p>
-                </div>
+                <div className="mt-2 text-gray-600">
+  <p className="font-medium">Rate Us Pro</p>
+  <p>123, MG Road, Indiranagar, Bengaluru, Karnataka, 560038, India</p>
+  <p>contact@rateuspro.com</p>
+  <p>+91 98765 43210</p>
+</div>
               </section>
             </div>
           </div>
